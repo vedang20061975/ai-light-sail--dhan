@@ -1,0 +1,41 @@
+[
+  {
+    "id": "user-admin-1",
+    "username": "admin",
+    "passwordHash": "bcp",
+    "fullName": "System Admin",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "8/2/2026",
+    "lastLogin": "8/2/2026, 10:01:25 AM"
+  },
+  {
+    "id": "user-trader-1",
+    "username": "trader1",
+    "passwordHash": "bcp1",
+    "fullName": "Bharat Parmar",
+    "role": "user",
+    "status": "active",
+    "createdAt": "8/2/2026",
+    "lastLogin": "8/2/2026, 10:01:28 AM"
+  },
+  {
+    "id": "user-trader-2",
+    "username": "trader2",
+    "passwordHash": "trader123",
+    "fullName": "VIP Client 02",
+    "role": "user",
+    "status": "active",
+    "createdAt": "8/2/2026"
+  },
+  {
+    "id": "user-1785663417575-ziqd",
+    "username": "htm",
+    "passwordHash": "1000",
+    "fullName": "hiten modi",
+    "role": "user",
+    "status": "active",
+    "createdAt": "8/2/2026",
+    "lastLogin": "8/2/2026, 10:01:33 AM"
+  }
+]

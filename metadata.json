@@ -1,0 +1,8 @@
+{
+  "name": "ai-light sail-dhan live trading ",
+  "description": "Real-time stock scanner dashboard for 1M, 5M, 10M, and 30M timeframes with Dhan API integration, Bollinger Band expansion, volume breakout detection, AI KNN Line, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
